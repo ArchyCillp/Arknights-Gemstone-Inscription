@@ -1,1 +1,1 @@
-"# Arknights-Gemstone-Inscription" 
+# Arknights-Gemstone-Inscription
